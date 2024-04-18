@@ -23,10 +23,23 @@ sys.path.insert(0, os.path.abspath("../.."))
 extensions = ['sphinx_markdown_tables', 'm2r']
 source_suffix = [".rst", ".md"]
 
-html_theme = 'sphinx_rtd_theme'
+# html_theme = 'sphinx_rtd_theme'
 
+html_theme = "furo"
 templates_path = ['_templates']
 exclude_patterns = []
+html_theme_options = {
+    "top_of_page_button": "edit",
+    "sidebar_hide_name": True,
+    "navigation_with_keys": True,
+    "announcement": "<em>欢迎加入逸夫科普讲解队</em>",
+    "light_css_variables": {
+        "color-brand-primary": "green",
+        # "color-brand-content": "green",
+        "color-admonition-background": "orange",
+        "font-stack": "Times New Roman, Times, serif",
+    },
+}
 
 language = 'zh_CN'
 
@@ -35,3 +48,5 @@ language = 'zh_CN'
 
 # html_theme = 'alabaster'
 html_static_path = ['_static']
+
+html_logo = 'https://github.com/Jin-sjh/Shaw_Science_Explainer_Team_Website/assets/97781484/999884c1-c6bd-4cc5-b898-a2e4861c3cbf'

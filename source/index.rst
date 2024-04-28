@@ -17,6 +17,13 @@
 
 .. toctree::
    :maxdepth: 3
+   :caption: 9th讲解队
+
+   9th队员名单<9th讲解队/9th队员名单.md>
+
+
+.. toctree::
+   :maxdepth: 3
    :caption: 10th讲解队
 
    10th队员名单<10th讲解队/10th队员名单.md>
@@ -27,6 +34,7 @@
    :caption: 11th讲解队
 
    11th队员名单<11th讲解队/11th队员名单.md>
+   11th活动<11th讲解队/11th活动.md>
 
 
 
@@ -35,6 +43,8 @@
    :caption: 12th讲解队
 
    12th队员名单<12th讲解队/12th队员名单.md>
+   12th管理成员<12th讲解队/12th管理成员.md>
+   12th活动<12th讲解队/12th活动.md>
 
 
 
@@ -45,6 +55,16 @@
    13th队员名单<13th讲解队/13th队员名单.md>
    13th管理成员<13th讲解队/13th管理成员.md>
    13th活动<13th讲解队/13th活动.md>
+
+
+.. toctree::
+   :maxdepth: 3
+   :caption: 讲解队文件资料
+
+   文件资料 <document.rst>
+   会议纪要 <meeting.rst>
+
+
 
 Indices and tables
 ==================

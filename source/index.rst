@@ -14,6 +14,7 @@
    社团章程<Home/社团章程.md>
    社团活动<Home/社团活动.md>
    社团荣誉<Home/社团荣誉.md>
+   逸夫新闻<Home/逸夫新闻.md>
 
 .. toctree::
    :maxdepth: 3

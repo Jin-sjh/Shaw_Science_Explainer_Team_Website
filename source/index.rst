@@ -58,6 +58,30 @@
    13th活动<13th讲解队/13th活动.md>
 
 
+
+.. toctree::
+   :maxdepth: 3
+   :caption: 14th讲解队
+
+   14th管理成员<14th讲解队/14th管理成员.md>
+
+
+
+.. toctree::
+   :maxdepth: 3
+   :caption: 15th讲解队
+
+   15th队员名单<15th讲解队/15th队员名单.md>
+   15th管理成员<15th讲解队/15th管理成员.md>
+
+
+.. toctree::
+   :maxdepth: 3
+   :caption: 16th讲解队
+
+   16th管理成员<16th讲解队/16th管理成员.md>
+
+
 .. toctree::
    :maxdepth: 3
    :caption: 讲解队文件资料

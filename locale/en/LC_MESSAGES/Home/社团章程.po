@@ -1,0 +1,57 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, 13th-SunJianhao
+# This file is distributed under the same license as the 逸夫科普讲解队 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 逸夫科普讲解队 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-17 19:57+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/Home/社团章程.md:3 d1525726a3a147fcbeeb6b0d0e468e21
+msgid "社团章程"
+msgstr ""
+
+#: ../../source/Home/社团章程.md:8 abae335e6be44740821c8a4b44e7a471
+msgid "中国地质大学逸夫讲解队章程2024_Page1"
+msgstr ""
+
+#: ../../source/Home/社团章程.md:14 481af39d5cc347169e476619026488b8
+msgid "中国地质大学逸夫讲解队章程2024_Page2"
+msgstr ""
+
+#: ../../source/Home/社团章程.md:20 1c61af0cc8ae4d368e9ec86495e4607b
+msgid "中国地质大学逸夫讲解队章程2024_Page3"
+msgstr ""
+
+#: ../../source/Home/社团章程.md:26 7ccd2362a54e4f72bc81a3fff0372000
+msgid "中国地质大学逸夫讲解队章程2024_Page4"
+msgstr ""
+
+#: ../../source/Home/社团章程.md:32 2165eb9713f74be78b598aa7f4564eaf
+msgid "中国地质大学逸夫讲解队章程2024_Page5"
+msgstr ""
+
+#: ../../source/Home/社团章程.md:38 5e19c76e051441fb823f628e7e50c6d6
+msgid "中国地质大学逸夫讲解队章程2024_Page6"
+msgstr ""
+
+#: ../../source/Home/社团章程.md:44 0b46334455f242828741b990da5afdfd
+msgid "中国地质大学逸夫讲解队章程2024_Page7"
+msgstr ""
+
+#: ../../source/Home/社团章程.md:51 05e624bde70c4410b9949e99ba0f0162
+msgid "社团章程参考自 15th管理层 制定版本"
+msgstr ""
+

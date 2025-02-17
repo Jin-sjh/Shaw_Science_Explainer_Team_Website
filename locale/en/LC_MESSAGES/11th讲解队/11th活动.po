@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, 13th-SunJianhao
+# This file is distributed under the same license as the 逸夫科普讲解队 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 逸夫科普讲解队 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-17 19:57+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/11th讲解队/11th活动.md:3 ba39f396a2da4a2a84b646ced717ec63
+msgid "11th活动"
+msgstr ""
+
+#: ../../source/11th讲解队/11th活动.md:8 5ec56bda723242d5a651f9d8afe43e3f
+msgid "1"
+msgstr ""
+
+#: ../../source/11th讲解队/11th活动.md:14 851d535f83344271a1a6a86b55708361
+msgid "2"
+msgstr ""
+
+#: ../../source/11th讲解队/11th活动.md:20 768eab97090f4db6b6aed9d41ca4d13b
+msgid "3"
+msgstr ""
+
+#: ../../source/11th讲解队/11th活动.md:26 88ef135548274fd7a7be77cf0f27b5e6
+msgid "4"
+msgstr ""
+
+#: ../../source/11th讲解队/11th活动.md:32 e2b7b24db233420b85e557749552bcf2
+msgid "5"
+msgstr ""
+
+#: ../../source/11th讲解队/11th活动.md:38 2099c070bceb412b804e50ff132cd945
+msgid "6"
+msgstr ""
+
+#: ../../source/11th讲解队/11th活动.md:44 cc1c1c9e34fb46768fc65e532e502bcc
+msgid "7"
+msgstr ""
+
+#: ../../source/11th讲解队/11th活动.md:50 63d05d7a8a3046af9efe3d4912b42ef1
+msgid "8"
+msgstr ""
+
+#: ../../source/11th讲解队/11th活动.md:56 ab3c6a524b2e44bd96825115537e2fc5
+msgid "9"
+msgstr ""
+

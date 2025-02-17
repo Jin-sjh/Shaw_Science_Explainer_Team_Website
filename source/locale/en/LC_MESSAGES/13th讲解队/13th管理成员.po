@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, 13th-SunJianhao
+# This file is distributed under the same license as the 逸夫科普讲解队 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 逸夫科普讲解队 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-17 13:30+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/13th讲解队/13th管理成员.md:3
+msgid "13th管理成员"
+msgstr ""
+
+#: ../../source/13th讲解队/13th管理成员.md:89
+msgid "重要文件资料"
+msgstr ""
+
+#: ../../source/13th讲解队/13th管理成员.md:91
+msgid ""
+"`13th 组织部 文件信息登记总表 (qq.com) "
+"<https://docs.qq.com/doc/DZlJGVUZPWERIUUlQ?u=40ac0718eb494b008b2f072197ea95db>`_"
+msgstr ""
+
+#: ../../source/13th讲解队/13th管理成员.md:94
+msgid "13th换届答辩合影"
+msgstr ""
+
+#: ../../source/13th讲解队/13th管理成员.md:-1
+msgid "1"
+msgstr ""
+
+#: ../../source/13th讲解队/13th管理成员.md:103
+msgid "活动照片"
+msgstr ""
+
+#: ../../source/13th讲解队/13th管理成员.md:-1
+msgid "IMG20210624134355"
+msgstr ""
+

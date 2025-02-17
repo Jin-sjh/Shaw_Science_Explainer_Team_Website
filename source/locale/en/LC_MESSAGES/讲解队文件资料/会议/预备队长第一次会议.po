@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, 13th-SunJianhao
+# This file is distributed under the same license as the 逸夫科普讲解队 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 逸夫科普讲解队 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-17 13:30+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+#: ../../source/讲解队文件资料/会议/预备队长第一次会议.md:3
+msgid "**预备队长第一次会议**"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/预备队长第一次会议.md:7
+msgid "**会议地点**\\ :腾讯会议"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/预备队长第一次会议.md:9
+msgid "**会议时间**\\ :2020年3月21日 星期六 20:00"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/预备队长第一次会议.md:11
+msgid "**会议人员**\\ :全体预备队长与11th队长和部长"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/预备队长第一次会议.md:13
+msgid "**会议记录**\\ :姚少楠"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/预备队长第一次会议.md:15
+msgid "**会议内容**\\ :"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/预备队长第一次会议.md:17
+msgid "1、预备队长自我介绍（工作经历、兴趣爱好等）。"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/预备队长第一次会议.md:19
+msgid "2、预备队长培训与考核（每周学习一篇推文、一周讨论一次）。"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/预备队长第一次会议.md:21
+msgid "3、公众号推荐。"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/预备队长第一次会议.md:23
+msgid "4、线上招新工作安排：预备队长官Q的建议；"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/预备队长第一次会议.md:25
+msgid "朱芙瑶：预备队长学习文章视频、留言互动，发送礼品；"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/预备队长第一次会议.md:27
+msgid "黄兆捷：以前推文改成视频、录视频工作分工；"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/预备队长第一次会议.md:29
+msgid "李昌雄：PPT形式的推文、视频；"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/预备队长第一次会议.md:31
+msgid "回翰呈：视频留悬念、视频连载。"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/预备队长第一次会议.md:33
+msgid "5、夏瑞麟总结："
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/预备队长第一次会议.md:35
+msgid "（1）一些基本能力的培养（按要求发邮件、表格的填写）；"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/预备队长第一次会议.md:37
+msgid "（2）明确预备队长是能力的培养，注重自己的能  力的提升；"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/预备队长第一次会议.md:39
+msgid "（3）反思报名的预备队长的目的，注重自己的责任，能力的提升。"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/预备队长第一次会议.md:41
+msgid "6、申陟杰总结："
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/预备队长第一次会议.md:43
+msgid "（1）明确自己担任队长的责任，对外的交流需要一定的水平，做事要严谨尽量避免小错误。"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/预备队长第一次会议.md:45
+msgid "（2）对自己的一个清晰认识摆正态度、树立自信、提升能力。"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/预备队长第一次会议.md:47
+msgid "7、唐毅涵：增加思维导图、手写、ppt等应用到学习会议讨论上。"
+msgstr ""
+

@@ -1,0 +1,73 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, 13th-SunJianhao
+# This file is distributed under the same license as the 逸夫科普讲解队 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 逸夫科普讲解队 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-17 19:57+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/15th讲解队/15th管理成员.md:3 b4a81770da3a4e71af648b3817994548
+msgid "15th管理成员"
+msgstr ""
+
+#: ../../source/15th讲解队/15th管理成员.md:8 fd96087080274ec0a480d91e44247930
+msgid "队  长"
+msgstr ""
+
+#: ../../source/15th讲解队/15th管理成员.md:10 29fab61024f2426389ef65234aa1d855
+msgid "熊信辉   地球科学学院"
+msgstr ""
+
+#: ../../source/15th讲解队/15th管理成员.md:12 7b864c8f5708446290cb3dc4d562dcb6
+msgid "方奕添   李四光学院"
+msgstr ""
+
+#: ../../source/15th讲解队/15th管理成员.md:14 b291f341188a4ff6b9ebd0b0ef35fa83
+msgid "翟灵睿   李四光学院"
+msgstr ""
+
+#: ../../source/15th讲解队/15th管理成员.md:17 cc0872c2e1ae452fabea4bd902168c16
+msgid "组织部"
+msgstr ""
+
+#: ../../source/15th讲解队/15th管理成员.md:19 8797e5c1a08a4731b8f2089442a61383
+msgid "**部  长**   杨奎   地球科学学院"
+msgstr ""
+
+#: ../../source/15th讲解队/15th管理成员.md:21 413ab4b119114372b3494aed26a1d8d4
+msgid "**部  长**   张弛    地球物理与空间信息学院"
+msgstr ""
+
+#: ../../source/15th讲解队/15th管理成员.md:24 6fad11a960aa4f15988323ebad6f5c4a
+msgid "宣传部"
+msgstr ""
+
+#: ../../source/15th讲解队/15th管理成员.md:26 eec1fdaa9e89443e83505c342d1ebe47
+msgid "**部  长**   罗依璇   地球科学学院"
+msgstr ""
+
+#: ../../source/15th讲解队/15th管理成员.md:29 6f237c2d90ad400081024a91b4082843
+msgid "培训部"
+msgstr ""
+
+#: ../../source/15th讲解队/15th管理成员.md:31 773a9fd39cf24f738c0a02dfdd189650
+msgid "**部  长**   张梦茹     地球物理与空间信息学院"
+msgstr ""
+
+#: ../../source/15th讲解队/15th管理成员.md:33 6d87aa46860e4488af1e7e3440b38909
+msgid "**部  长**    杨景亮    李四光学院"
+msgstr ""
+

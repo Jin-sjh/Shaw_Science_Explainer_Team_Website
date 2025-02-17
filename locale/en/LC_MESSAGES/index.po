@@ -1,0 +1,165 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, 13th-SunJianhao
+# This file is distributed under the same license as the 逸夫科普讲解队 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 逸夫科普讲解队 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-17 19:57+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/index.rst:9
+msgid "社团简介"
+msgstr ""
+
+#: ../../source/index.rst:9
+msgid "社团章程"
+msgstr ""
+
+#: ../../source/index.rst:9
+msgid "社团活动"
+msgstr ""
+
+#: ../../source/index.rst:9
+msgid "社团荣誉"
+msgstr ""
+
+#: ../../source/index.rst:9
+msgid "逸夫新闻"
+msgstr ""
+
+#: ../../source/index.rst:9
+msgid "Home"
+msgstr ""
+
+#: ../../source/index.rst:19
+msgid "9th队员名单"
+msgstr ""
+
+#: ../../source/index.rst:19
+msgid "9th讲解队"
+msgstr ""
+
+#: ../../source/index.rst:26
+msgid "10th队员名单"
+msgstr ""
+
+#: ../../source/index.rst:26
+msgid "10th讲解队"
+msgstr ""
+
+#: ../../source/index.rst:33
+msgid "11th队员名单"
+msgstr ""
+
+#: ../../source/index.rst:33
+msgid "11th活动"
+msgstr ""
+
+#: ../../source/index.rst:33
+msgid "11th讲解队"
+msgstr ""
+
+#: ../../source/index.rst:42
+msgid "12th队员名单"
+msgstr ""
+
+#: ../../source/index.rst:42
+msgid "12th管理成员"
+msgstr ""
+
+#: ../../source/index.rst:42
+msgid "12th活动"
+msgstr ""
+
+#: ../../source/index.rst:42
+msgid "12th讲解队"
+msgstr ""
+
+#: ../../source/index.rst:52
+msgid "13th队员名单"
+msgstr ""
+
+#: ../../source/index.rst:52
+msgid "13th管理成员"
+msgstr ""
+
+#: ../../source/index.rst:52
+msgid "13th活动"
+msgstr ""
+
+#: ../../source/index.rst:52
+msgid "13th讲解队"
+msgstr ""
+
+#: ../../source/index.rst:62
+msgid "14th管理成员"
+msgstr ""
+
+#: ../../source/index.rst:62
+msgid "14th讲解队"
+msgstr ""
+
+#: ../../source/index.rst:70
+msgid "15th队员名单"
+msgstr ""
+
+#: ../../source/index.rst:70
+msgid "15th管理成员"
+msgstr ""
+
+#: ../../source/index.rst:70
+msgid "15th讲解队"
+msgstr ""
+
+#: ../../source/index.rst:78
+msgid "16th管理成员"
+msgstr ""
+
+#: ../../source/index.rst:78
+msgid "16th讲解队"
+msgstr ""
+
+#: ../../source/index.rst:85
+msgid "文件资料"
+msgstr ""
+
+#: ../../source/index.rst:85
+msgid "会议纪要"
+msgstr ""
+
+#: ../../source/index.rst:85
+msgid "讲解队文件资料"
+msgstr ""
+
+#: ../../source/index.rst:7 7ff0a22359c647b0a50c3d8b3a299b65
+msgid "逸夫科普讲解队"
+msgstr ""
+
+#: ../../source/index.rst:95 9656297a37704e078ca1cd161e51c5c9
+msgid "Indices and tables"
+msgstr ""
+
+#: ../../source/index.rst:97 e21800e62af64c5d8695ac5c8fd08b81
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../source/index.rst:98 8fdfd8090d6e435abdef45193e9bd8b2
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../source/index.rst:99 94800bdca9d84509a472c1bbd6c4823d
+msgid ":ref:`search`"
+msgstr ""
+

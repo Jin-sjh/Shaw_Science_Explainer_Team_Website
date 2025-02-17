@@ -1,0 +1,35 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, 13th-SunJianhao
+# This file is distributed under the same license as the 逸夫科普讲解队 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 逸夫科普讲解队 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-17 19:57+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/Home/社团荣誉.md:3 6b4d3c9a22c34fd081d641d43828e918
+msgid "社团荣誉"
+msgstr ""
+
+#: ../../source/Home/社团荣誉.md:8 ../../source/Home/社团荣誉.md:14
+#: ../../source/Home/社团荣誉.md:20 935e707bb1c840008ea4e8d9940075f4
+#: bcec182c39e745a58b7c26436c31bd71 e2869d9063ea4a819e6606669b0dbdab
+msgid "image"
+msgstr ""
+
+#: ../../source/Home/社团荣誉.md:27 962f92fd077c491fba4a781d779bf319
+msgid "图片内容采用自 翟灵睿队长（15th） 制作的PPT"
+msgstr ""
+

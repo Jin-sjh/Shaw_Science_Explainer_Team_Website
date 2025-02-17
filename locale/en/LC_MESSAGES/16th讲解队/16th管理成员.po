@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, 13th-SunJianhao
+# This file is distributed under the same license as the 逸夫科普讲解队 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 逸夫科普讲解队 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-17 19:57+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/16th讲解队/16th管理成员.md:3 a32ed82dac32460ba6bbaf9cee6fe079
+msgid "16th管理成员"
+msgstr ""
+
+#: ../../source/16th讲解队/16th管理成员.md:8 d766722b10d44b9db3adb97ccc464422
+msgid "队  长"
+msgstr ""
+
+#: ../../source/16th讲解队/16th管理成员.md:10 bc36096733884a8aa80e79d145ae9b99
+msgid "李泽鑫  组织部队长   地球科学学院"
+msgstr ""
+
+#: ../../source/16th讲解队/16th管理成员.md:12 f0093e8a54e6417cb835b86800a2c936
+msgid "罗远蜓  宣传部队长   艺术与传媒学院"
+msgstr ""
+
+#: ../../source/16th讲解队/16th管理成员.md:14 4f202ad15473418698115cf3b1b018ef
+msgid "武建宁  培训部队长   工程学院"
+msgstr ""
+
+#: ../../source/16th讲解队/16th管理成员.md:17 b11fa5cc42a84b7eb5ca244f23c8e453
+msgid "组织部"
+msgstr ""
+
+#: ../../source/16th讲解队/16th管理成员.md:19 a4f76f99a28d45ba8862b3abf28c9e41
+msgid "杨戈尔    组织部部长    地球科学学院"
+msgstr ""
+
+#: ../../source/16th讲解队/16th管理成员.md:21 719e8507e73d45cc8660ff60d76b9a0e
+msgid "陈    宇    组织部部长     工程学院"
+msgstr ""
+
+#: ../../source/16th讲解队/16th管理成员.md:24 56710ffa2d0040fb990017fbda344879
+msgid "宣传部"
+msgstr ""
+
+#: ../../source/16th讲解队/16th管理成员.md:26 d230bdbe03174cdcaaad175926ae1a24
+msgid "刘博岩  宣传部部长    地球科学学院"
+msgstr ""
+
+#: ../../source/16th讲解队/16th管理成员.md:28 aeb82aebda7447b9a5cafa6950fbeb78
+msgid "张  涵  宣传部部长    地球科学学院"
+msgstr ""
+
+#: ../../source/16th讲解队/16th管理成员.md:31 e29bbf3b2b2a4a778d4ef04c4f26cd4e
+msgid "培训部"
+msgstr ""
+
+#: ../../source/16th讲解队/16th管理成员.md:33 081aada57aab4d7cae6367e96aed7e9f
+msgid "冯一渊  培训部部长    地球科学学院"
+msgstr ""
+
+#: ../../source/16th讲解队/16th管理成员.md:35 2b59c05e57e74df89e6c3f52f1ac777d
+msgid "陈佳曦  培训部部长    地理与信息工程学院"
+msgstr ""
+
+#: ../../source/16th讲解队/16th管理成员.md:38 744b4d7045974724b201c2973fadf885
+msgid "特  聘"
+msgstr ""
+

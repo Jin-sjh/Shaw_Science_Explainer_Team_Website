@@ -1,0 +1,95 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, 13th-SunJianhao
+# This file is distributed under the same license as the 逸夫科普讲解队 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 逸夫科普讲解队 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-17 19:57+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/Home/社团活动.md:3 259a7d77ed0f42c6ae0902fa3b0684af
+msgid "社团活动"
+msgstr ""
+
+#: ../../source/Home/社团活动.md:8 5f03fbd3d5d146a9a338933bf1202262
+msgid "日常讲解"
+msgstr ""
+
+#: ../../source/Home/社团活动.md:11 ../../source/Home/社团活动.md:20
+#: ../../source/Home/社团活动.md:29 ../../source/Home/社团活动.md:35
+#: ../../source/Home/社团活动.md:44 ../../source/Home/社团活动.md:53
+#: ../../source/Home/社团活动.md:62 ../../source/Home/社团活动.md:71
+#: ../../source/Home/社团活动.md:80 0a7f2f3c55234476b257a4e6036e7ef9
+#: 2fe1a330daa548b9bbab3d623b6bc96a 3f882bd171104b31849f8ac5f1556eb5
+#: 4508676d41cd481d838f81f8a974f22e 9d4bc68bd74e465da38a707d8aa9258c
+#: e823311c7e1a4c4e9c5ac0008ad3152c e8cbaa5a277d40baa6ca9894bcfbdedc
+#: ed3000bfdcf3458885097c30c35d6746 f880c36e77e449c6b613703d0d910087
+msgid "image"
+msgstr ""
+
+#: ../../source/Home/社团活动.md:17 dbdd80aeaff24343855b6f61a16484f7
+msgid "新生培训"
+msgstr ""
+
+#: ../../source/Home/社团活动.md:26 16baa3f3681b4d4ca6cc2d252a1147fe
+msgid "矿标义卖"
+msgstr ""
+
+#: ../../source/Home/社团活动.md:41 c95388ec99ca4886bc37b74ebccc22ba
+msgid "全国科普日"
+msgstr ""
+
+#: ../../source/Home/社团活动.md:50 f3eed3dd3b274eb7b92fd9da43fcf802
+msgid "金秋文化节"
+msgstr ""
+
+#: ../../source/Home/社团活动.md:59 8ee3f26f801849709f8c2da598fe4405
+msgid "元旦灯会"
+msgstr ""
+
+#: ../../source/Home/社团活动.md:68 884d65a3d6674869af9a0999a67077f6
+msgid "面向中小学地学科普"
+msgstr ""
+
+#: ../../source/Home/社团活动.md:77 1c55d5bde0d84a4eb92464e245234d96
+msgid "面向社会的地学科普"
+msgstr ""
+
+#: ../../source/Home/社团活动.md:86 8c659dadf17846089ef0c089040df819
+msgid "⭐ 社团活动照片"
+msgstr ""
+
+#: ../../source/Home/社团活动.md:90 ../../source/Home/社团活动.md:100
+#: 6f6d69c3561b4a1f9270e4cc3938554c fa84eae842d6424981873f99d718b926
+msgid "**社团跨年晚会**"
+msgstr ""
+
+#: ../../source/Home/社团活动.md:93 e1501cd7a5674b3b98ddfec1c3506665
+msgid "15"
+msgstr ""
+
+#: ../../source/Home/社团活动.md:98 ../../source/Home/社团活动.md:116
+#: 2627f806cd274884bad973defaf1f394 f91d603056454c37a10a176041212e7f
+msgid "​"
+msgstr ""
+
+#: ../../source/Home/社团活动.md:111 541fcf676ebf4877a6a6e80bed79320e
+msgid "IMG20220422152946"
+msgstr ""
+
+#: ../../source/Home/社团活动.md:121 f81172b706dd487ebb217451c82d20f2
+msgid "1"
+msgstr ""
+

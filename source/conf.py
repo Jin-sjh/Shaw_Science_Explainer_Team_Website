@@ -42,11 +42,14 @@ html_theme_options = {
 }
 
 language = 'zh_CN'
+locale_dirs = ['locale/']  # 翻译文件目录不变
+gettext_compact = False  # 是否将翻译文件压缩
+gettext_uuid = True  # 是否为翻译文件生成 UUID
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 # html_theme = 'alabaster'
-html_static_path = ['_static']
+# html_static_path = ['_static']
 
 html_logo = 'https://github.com/Jin-sjh/Shaw_Science_Explainer_Team_Website/assets/97781484/999884c1-c6bd-4cc5-b898-a2e4861c3cbf'

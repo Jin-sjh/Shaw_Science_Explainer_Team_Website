@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, 13th-SunJianhao
+# This file is distributed under the same license as the 逸夫科普讲解队 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 逸夫科普讲解队 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-17 19:57+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/12th讲解队/12th活动.md:3 d3e290d90b1f45c088a4032b87ffb460
+msgid "12th活动"
+msgstr ""
+
+#: ../../source/12th讲解队/12th活动.md:8 45290f66b521459e8f99a765daa16664
+msgid "12th 新生入学讲解带队安排"
+msgstr ""
+
+#: ../../source/12th讲解队/12th活动.md:70 ea1833f1e00f4f77b1f4815f5f684654
+msgid "活动照片"
+msgstr ""
+
+#: ../../source/12th讲解队/12th活动.md:73 7543ec4ff7f447e48e009ec8caae7469
+msgid "1"
+msgstr ""
+
+#: ../../source/12th讲解队/12th活动.md:79 5df40793af6c4f18a4af951ecdddad30
+msgid "2"
+msgstr ""
+
+#: ../../source/12th讲解队/12th活动.md:85 96679f61d5c746838bb8a5b1ad26ffc5
+msgid "3"
+msgstr ""
+
+#: ../../source/12th讲解队/12th活动.md:91 5fd81b15a3cf4bb3a8cda0544679de8f
+msgid "4"
+msgstr ""
+

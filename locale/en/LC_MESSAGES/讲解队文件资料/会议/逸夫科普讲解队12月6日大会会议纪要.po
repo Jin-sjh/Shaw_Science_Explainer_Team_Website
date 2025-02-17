@@ -1,0 +1,131 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, 13th-SunJianhao
+# This file is distributed under the same license as the 逸夫科普讲解队 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 逸夫科普讲解队 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-17 19:57+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/讲解队文件资料/会议/逸夫科普讲解队12月6日大会会议纪要.md:3
+#: 5d20e982a67b4a409510f696e780c162
+msgid "**逸夫科普讲解队年终总结大会**"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/逸夫科普讲解队12月6日大会会议纪要.md:7
+#: c90b4e85cb904fb5a73e338f24a62645
+msgid "**会议地点:**\\ 教三304"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/逸夫科普讲解队12月6日大会会议纪要.md:9
+#: d182df8baedc4ac382ff0cbc06e55815
+msgid "**会议时间**\\ :2018年12月06日21:00"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/逸夫科普讲解队12月6日大会会议纪要.md:11
+#: 2eff9307774242a6bf09f8f10b7bd77c
+msgid "**会议人员**\\ :逸夫科普讲解队全体人员"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/逸夫科普讲解队12月6日大会会议纪要.md:13
+#: 6b5d5f033c2b41638c03c6b03871a8c2
+msgid "**会议记录**\\ :张佳妮"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/逸夫科普讲解队12月6日大会会议纪要.md:15
+#: 5d03aa752cbe443fb21dea26ea6301dd
+msgid "**会议内容:**"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/逸夫科普讲解队12月6日大会会议纪要.md:17
+#: 86901b940d2b406c8d488aefe0474c4f
+msgid "**一、****\\ 队长年终总结**"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/逸夫科普讲解队12月6日大会会议纪要.md:19
+#: 1abbfe0632d04464b6c17fc0452b7a86
+msgid "（一）王喆："
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/逸夫科普讲解队12月6日大会会议纪要.md:21
+#: 8035998f58964e2a95f872c3b03e541d
+msgid "1、进行队长们一年的工作总结；"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/逸夫科普讲解队12月6日大会会议纪要.md:23
+#: f4d8d43b59bc4e308c58bc687bdbc06f
+msgid "2、简单阐述各部门一年的工作内容；"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/逸夫科普讲解队12月6日大会会议纪要.md:25
+#: e35b73548e2b4e919ff947fe0bbc16f6
+msgid "3、介绍讲解大赛活动过程；"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/逸夫科普讲解队12月6日大会会议纪要.md:27
+#: 6be500f16fe743eb88594d21c41cb947
+msgid "4、介绍讲解队活动室的安排及使用方法；"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/逸夫科普讲解队12月6日大会会议纪要.md:29
+#: 81d7fb365d0f429eafd2d288ddfa9fbd
+msgid "5、鼓励大家积极报名带团讲解、提高讲解水平；"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/逸夫科普讲解队12月6日大会会议纪要.md:31
+#: 03f637170e81458fa46f5b3b59b42833
+msgid "6、讲述志愿时长统计规则。"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/逸夫科普讲解队12月6日大会会议纪要.md:33
+#: 19324442edca432bb629108a071641b7
+msgid "（二）夏瑞麟："
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/逸夫科普讲解队12月6日大会会议纪要.md:35
+#: ca33245e89bd4a078938187be205b6a4
+msgid "1、安排部门聚餐的时间；"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/逸夫科普讲解队12月6日大会会议纪要.md:37
+#: ed967dfb4da04d21be88277e0c6a389e
+msgid "2、询问大家对于地学院和博物馆的认知。"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/逸夫科普讲解队12月6日大会会议纪要.md:39
+#: 935e91e9f97e4d83a3b5de5fa552ec1d
+msgid "（三）申陟杰："
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/逸夫科普讲解队12月6日大会会议纪要.md:41
+#: 5a806ea6063d4e5585c122495322267b
+msgid "1、谈博物馆、地学院对讲解队的意义。"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/逸夫科普讲解队12月6日大会会议纪要.md:43
+#: 7bd6e39768c44c128e0688cd80abb66f
+msgid "**请假人员**\\ : 黄兆捷、袁菲雪、杨涵、余沁雪、王嘉坤、曾祥斌、陈婷。贾雪丽"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/逸夫科普讲解队12月6日大会会议纪要.md:45
+#: c59bf2b371bd4066a9c893b9e3f43941
+msgid "**迟到人员**\\ :"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/逸夫科普讲解队12月6日大会会议纪要.md:47
+#: 6f99d03f5b4342e198b41b29e91529d1
+msgid "**缺勤人员**\\ ："
+msgstr ""
+

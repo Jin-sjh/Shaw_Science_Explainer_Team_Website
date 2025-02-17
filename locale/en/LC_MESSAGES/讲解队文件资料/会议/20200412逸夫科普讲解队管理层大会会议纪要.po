@@ -1,0 +1,111 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, 13th-SunJianhao
+# This file is distributed under the same license as the 逸夫科普讲解队 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 逸夫科普讲解队 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-17 19:57+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/讲解队文件资料/会议/20200412逸夫科普讲解队管理层大会会议纪要.md:3
+#: 601a2147218647019bdf73119b6c3c98
+msgid "**逸夫科普讲解队管理层大会会议纪要**"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/20200412逸夫科普讲解队管理层大会会议纪要.md:7
+#: 8f780d4f707444669a008a54995beaf5
+msgid "**会议地点：**\\ 腾讯会议"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/20200412逸夫科普讲解队管理层大会会议纪要.md:9
+#: d7f710afcf5546c987b26fc89c669603
+msgid "**会议时间：**\\ 2020年4月12日 星期日 20：00"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/20200412逸夫科普讲解队管理层大会会议纪要.md:11
+#: f8970f9c17e041ecaabe529ecc19c086
+msgid "**与会人员：**\\ 第十二届管理层全体人员"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/20200412逸夫科普讲解队管理层大会会议纪要.md:13
+#: 78d5b726e2674c75ab9176b3d903c371
+msgid "**会议记录：**\\ 张佳妮"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/20200412逸夫科普讲解队管理层大会会议纪要.md:15
+#: 92ee7e154b8a4e64ae6308535d5114f1
+msgid "**会议内容：**"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/20200412逸夫科普讲解队管理层大会会议纪要.md:17
+#: 7859f4df3449464488bea3c9a531ef83
+msgid "一、预备队长们进行日常讲解练习；"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/20200412逸夫科普讲解队管理层大会会议纪要.md:19
+#: ae76ba0a6ce24e57a9e06f34e44df441
+msgid "二、各小组讲述招新工作及问题；"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/20200412逸夫科普讲解队管理层大会会议纪要.md:21
+#: 4af4c48e94014a008ac9662b38b84b42
+msgid "出题小组：讲解人员分工安排"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/20200412逸夫科普讲解队管理层大会会议纪要.md:23
+#: 68bad988892345b980271112b3b061cf
+msgid "宣传小组：更新小科宣传机制"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/20200412逸夫科普讲解队管理层大会会议纪要.md:25
+#: 692a33f717a44c12bb62a86e9db72f94
+msgid "策划小组：一些环节缺乏细节，如：面试所用工具。缺乏人员安"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/20200412逸夫科普讲解队管理层大会会议纪要.md:27
+#: a616012f0a7f426ea2106f6ed330cd82
+msgid "排的熟悉度。加强工作伙伴熟悉度。"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/20200412逸夫科普讲解队管理层大会会议纪要.md:29
+#: a6f118d5c66a419eaeb57e70b13b162e
+msgid "三、分发报名表以及各院系加强宣传；"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/20200412逸夫科普讲解队管理层大会会议纪要.md:31
+#: 1366ac5ed34e4c71a41c5456dbcf9430
+msgid "四、讲述志协项目大赛；"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/20200412逸夫科普讲解队管理层大会会议纪要.md:33
+#: 55ee8bf3fff7411aa8408cb97f53a9a2
+msgid "五、讲解讲解队文书格式要求、推文文书格式和短信要求。"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/20200412逸夫科普讲解队管理层大会会议纪要.md:35
+#: 0c5be053e0964aa3a7106c5f7685eab7
+msgid "**请假人员**\\ ：林培凤"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/20200412逸夫科普讲解队管理层大会会议纪要.md:37
+#: 9c7296ad6cd248eaaf91516157203a30
+msgid "**迟到人员**\\ ：无"
+msgstr ""
+
+#: ../../source/讲解队文件资料/会议/20200412逸夫科普讲解队管理层大会会议纪要.md:39
+#: 6a87c7c750b84d63ad768b6f034120cd
+msgid "**缺勤人员**\\ ：无"
+msgstr ""
+

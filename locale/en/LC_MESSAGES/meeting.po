@@ -1,0 +1,45 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, 13th-SunJianhao
+# This file is distributed under the same license as the 逸夫科普讲解队 package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 逸夫科普讲解队 \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-17 19:57+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/meeting.rst:4
+msgid " 预备队长第一次会议"
+msgstr ""
+
+#: ../../source/meeting.rst:4
+msgid " 逸夫科普讲解队12月6日大会会议纪要"
+msgstr ""
+
+#: ../../source/meeting.rst:4
+msgid " 20200412逸夫科普讲解队管理层大会会议纪要"
+msgstr ""
+
+#: ../../source/meeting.rst:4
+msgid " 2019年10月29日逸夫科普讲解队管理层大会会议纪要"
+msgstr ""
+
+#: ../../source/meeting.rst:4
+msgid " 2019年6月22日逸夫科普讲解队管理层大会会议纪要"
+msgstr ""
+
+#: ../../source/meeting.rst:2 ad106f01f4b040cba72247271ab15c8b
+msgid "逸夫科普讲解队会议记录"
+msgstr ""
+
